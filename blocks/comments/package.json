@@ -17,7 +17,7 @@
 	},
 	"dependencies": {
 		"date-fns": "^2.29.3",
-		"html-react-parser": "^3.0.4",
+		"html-react-parser": "^5.2.10",
 		"react-inlinesvg": "^3.0.1"
 	}
 }
