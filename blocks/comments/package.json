@@ -13,7 +13,7 @@
 	"author": "Discourse",
 	"license": "GPL",
 	"devDependencies": {
-		"@wordpress/scripts": "*"
+		"@wordpress/scripts": "29.0.0"
 	},
 	"dependencies": {
 		"date-fns": "^2.29.3",
